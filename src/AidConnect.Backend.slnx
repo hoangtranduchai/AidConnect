@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="AidConnect.Api/AidConnect.Api.csproj" />
+  <Project Path="AidConnect.Core/AidConnect.Core.csproj" />
+  <Project Path="AidConnect.Infrastructure/AidConnect.Infrastructure.csproj" />
+</Solution>
